@@ -8,6 +8,7 @@ import io.restassured.response.Response;
 import static io.restassured.RestAssured.*;
 
 //URI >>environment.properties
+//first commit done..
 public class HTTPMethods
 {
 	Properties pr;
