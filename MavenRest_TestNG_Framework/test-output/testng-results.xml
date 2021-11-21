@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-21T12:52:50Z" name="Suite" finished-at="2021-11-21T12:52:53Z" duration-ms="3697">
+    <groups>
+    </groups>
+    <test started-at="2021-11-21T12:52:50Z" name="Test" finished-at="2021-11-21T12:52:53Z" duration-ms="3697">
+      <class name="org.testing.TestScripts.TC5_PutRequest">
+        <test-method signature="FifthTC()[pri:0, instance:org.testing.TestScripts.TC5_PutRequest@28f2a10f]" started-at="2021-11-21T18:22:53Z" name="FifthTC" finished-at="2021-11-21T18:22:53Z" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FifthTC -->
+      </class> <!-- org.testing.TestScripts.TC5_PutRequest -->
+      <class name="org.testing.TestScripts.TC6_DeleteRequest">
+        <test-method signature="SixthTC()[pri:0, instance:org.testing.TestScripts.TC6_DeleteRequest@f736069]" started-at="2021-11-21T18:22:53Z" name="SixthTC" finished-at="2021-11-21T18:22:53Z" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SixthTC -->
+      </class> <!-- org.testing.TestScripts.TC6_DeleteRequest -->
+      <class name="org.testing.TestScripts.TC3_GetsALL">
+        <test-method signature="ThirdTC()[pri:0, instance:org.testing.TestScripts.TC3_GetsALL@73e22a3d]" started-at="2021-11-21T18:22:53Z" name="ThirdTC" finished-at="2021-11-21T18:22:53Z" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ThirdTC -->
+      </class> <!-- org.testing.TestScripts.TC3_GetsALL -->
+      <class name="org.testing.TestScripts.TC1_PostRequest">
+        <test-method signature="firstTC()[pri:0, instance:org.testing.TestScripts.TC1_PostRequest@5562c41e]" started-at="2021-11-21T18:22:50Z" name="firstTC" finished-at="2021-11-21T18:22:53Z" duration-ms="3334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTC -->
+      </class> <!-- org.testing.TestScripts.TC1_PostRequest -->
+      <class name="org.testing.TestScripts.TC4_GetAll_FetchID">
+        <test-method signature="FourthTC()[pri:0, instance:org.testing.TestScripts.TC4_GetAll_FetchID@47faa49c]" started-at="2021-11-21T18:22:53Z" name="FourthTC" finished-at="2021-11-21T18:22:53Z" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FourthTC -->
+      </class> <!-- org.testing.TestScripts.TC4_GetAll_FetchID -->
+      <class name="org.testing.TestScripts.TC2_GetRequest">
+        <test-method signature="SecondTC()[pri:0, instance:org.testing.TestScripts.TC2_GetRequest@3232a28a]" started-at="2021-11-21T18:22:53Z" name="SecondTC" finished-at="2021-11-21T18:22:53Z" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondTC -->
+      </class> <!-- org.testing.TestScripts.TC2_GetRequest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
